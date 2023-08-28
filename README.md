@@ -1,5 +1,5 @@
 # Playing-Sound
-Welcome to "Playing Sound" repo. It contains an Android App which makes a sound when button is clicked. Some technologies used in this project are:
+Welcome to "Playing Sound" repo. It contains an Android App which makes a sound when button is clicked. Some technologies / features in this project are:
 
 * Easy to use
 * Tested on Android Nexus 5 Api 26 and Android Pixel Pro Api 33
