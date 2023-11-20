@@ -9,7 +9,7 @@ Welcome to "Playing Guitar" repo. It contains an Android App which makes a Guita
 
 Playing Sound
 <p align="center">
-  <img src="https://github.com/meemanali/Playing-Sound/blob/master/Playing%20Sound.png" alt="Playing Sound" width="310" title="Normal Screen">
+  <img src="https://github.com/meemanali/Playing-Sound/blob/master/Playing%20Sound.png" alt="Playing Sound" width="230" title="Normal Screen">
 </p>
 
 https://github.com/meemanali/Playing-Sound/assets/120294764/dce37bb1-90c0-47a5-bfc5-632fe0e4b260
