@@ -3,7 +3,7 @@ Welcome to "Playing Guitar" repo. It contains an Android App which makes a Guita
 
 * Easy to use.
 * Tested on Android Nexus 5 Api 26 and Android Pixel Pro Api 33.
-* Beautiful and simple UI.
+* Beautiful and enhancing UI.
 
 # Preview:
 
